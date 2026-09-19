@@ -1,4 +1,4 @@
-# Hi! I'm Eemil, an Applied Mathematics MSc student at Aalto University.
+### Hi! I'm Eemil, an Applied Mathematics MSc student at Aalto University.
 
 **Currently**: Working in Central Analytics @ **Supercell**
 
