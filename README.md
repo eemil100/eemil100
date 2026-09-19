@@ -1,8 +1,8 @@
-Hi! I'm Eemil, an Applied Mathematics MSc student at Aalto University.
+# Hi! I'm Eemil, an Applied Mathematics MSc student at Aalto University.
 
 **Currently**: Working in Central Analytics @ **Supercell**
 
-**Previously**: Quantitative Research @ **Mandatum**; game theory research @ University of Helsinki + NUS
+**Previously**: Quantitative Research @ **Mandatum** | Game Theory Research @ **University of Helsinki** & **NUS**
 
 **Tech Stack**: Python (NumPy, pandas, scikit-learn, PyTorch), SQL, R, Git, Bloomberg API.
 
