@@ -1,6 +1,6 @@
 Hi! I'm Eemil, an Applied Mathematics MSc student at Aalto University.
 
-**Currently**: Central Analytics @ **Supercell**
+**Currently**: Working in Central Analytics @ **Supercell**
 
 **Previously**: Quantitative Research @ **Mandatum**; game theory research @ University of Helsinki + NUS
 
