@@ -6,4 +6,4 @@
 
 **Tech Stack**: Python (NumPy, pandas, scikit-learn, PyTorch), SQL, R, Git, Bloomberg API.
 
-*Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/eemil-yla-nikkila/)
+* Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/eemil-yla-nikkila/)
